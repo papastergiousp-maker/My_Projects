@@ -1,8 +1,5 @@
 # 📊 Data Analytics & Financial Forecasting Portfolio
 ### Σπύρος Παπαστεργίου | [cite_start]Economist & Data Analyst [cite: 1, 2]
-
-[cite_start]Οικονομολόγος με εκπαίδευση σε λογιστικό, χημικό και γεωπονικό περιβάλλον[cite: 5]. [cite_start]Εξειδικεύομαι στη Χρηματοοικονομική Τεχνολογία και την ανάλυση βάσεων δεδομένων (FinTech)[cite: 7].
-
 ---
 
 ## 🚀 Featured Project: Business Analytics Dashboard
@@ -44,8 +41,3 @@
 | **Corona Project** | Στατιστική ανάλυση τάσεων και δεδομένων πανδημίας. | [🔗 View](https://github.com/papastergiousp-maker/Power-BI/blob/main/Power_BI_Screenshots/SSU_Corona_Project.pdf) |
 
 ---
-
-## [cite_start]🔧 Τεχνικές Δεξιότητες [cite: 43]
-* [cite_start]**Γλώσσες & Εργαλεία**: Python (Pandas, NumPy, Plotly), SQL, Power BI, Tableau, IBM SPSS[cite: 44, 49].
-* [cite_start]**Finance**: Financial Analytics, Risk Modeling, Financial Visualization[cite: 48].
-* [cite_start]**Business**: Epsilon Net - EXTRA, HACCP & ISO 22000[cite: 45, 46].
