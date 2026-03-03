@@ -1,5 +1,5 @@
 # 📊 Data Analytics & Financial Forecasting Portfolio
-### Σπύρος Παπαστεργίου | [cite_start]Economist & Data Analyst [cite: 1, 2]
+### Σπύρος Παπαστεργίου | Economist & Data Analyst
 ---
 
 ## 🚀 Featured Project: Business Analytics Dashboard
