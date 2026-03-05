@@ -2,7 +2,7 @@
 ### Σπύρος Παπαστεργίου | Economist & Data Analyst
 ---
 
-## 🚀 Featured Project: Business Analytics Dashboard
+##  Featured Project: Business Analytics Dashboard
 **[🔗 Δείτε το Dashboard Live εδώ](https://phytai.com/dashboard/)**
 Interactive οπτικοποίηση πωλήσεων, εσόδων και πελατολογίου με χρήση Python & Plotly.
 
