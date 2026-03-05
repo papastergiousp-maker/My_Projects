@@ -7,7 +7,7 @@
 Interactive οπτικοποίηση πωλήσεων, εσόδων και πελατολογίου με χρήση Python & Plotly.
 
 ---
-## 📂 Top 15 Projects Portfolio
+##  Top 15 Projects Portfolio
 
 | # | Project Name | Tools | Περιγραφή | Link |
 | :-- | :--- | :--- | :--- | :--- |
