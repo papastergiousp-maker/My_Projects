@@ -4,7 +4,7 @@
 
 ## 🚀 Featured Project: Business Analytics Dashboard
 **[🔗 Δείτε το Dashboard Live εδώ](https://phytai.com/dashboard/)**
-[cite_start]*Interactive οπτικοποίηση πωλήσεων, εσόδων και πελατολογίου με χρήση Python & Plotly.* [cite: 3]
+[cite_start]*Interactive οπτικοποίηση πωλήσεων, εσόδων και πελατολογίου με χρήση Python & Plotly.
 
 ---
 ## 📂 Top 15 Projects Portfolio
