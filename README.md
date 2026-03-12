@@ -8,7 +8,7 @@
 
 📁 **Projects: 25+**
 
-💡 All Power BI files are screenshots and `.pbix` files are available for download in the repository for interactive exploration. [📊 View]https://github.com/papastergiousp-maker/Power-BI/tree/main/Power_BI_Projects
+💡 All Power BI files are screenshots and `.pbix` files are available for download in the repository for interactive exploration. [📊 View](https://github.com/papastergiousp-maker/Power-BI/tree/main/Power_BI_Projects)
 
 💡 You can find Python code for all visualization diagrams in the other repositories.
 
