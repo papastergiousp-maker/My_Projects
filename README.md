@@ -86,27 +86,4 @@
 
 ---
 
-## 🛠️ Tech Stack
 
-| Category | Tools |
-|:---------|:------|
-| **Languages** | Python, SQL |
-| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Plotly |
-| **BI & Visualization** | Power BI, Tableau, Financial Visualization |
-| **Excel** | Advanced Excel — Pivot Tables, Power Query, DAX, Financial Modeling |
-| **Finance** | Financial Modeling, Predictive Analytics, Forecasting Models, Risk Analysis |
-| **Statistical** | IBM SPSS, Variance Analysis, Poisson Distribution |
-| **Standards** | HACCP, ISO 22000 |
-| **Platforms** | GitHub, VSCode, Google Workspace |
-
----
-
-## 📜 Certifications
-
-- 🏅 **Financial Data Analytics** — Workearly, 2026 | [Credly Badge](https://credly.com/users/spyros-papastergiou)
-- 📋 **Licensed Tax Accountant** — Economic Chamber of Greece (OEE), 2025
-- 🇬🇧 **English B2** — LRN Certified, 2024
-
----
-
-*All projects include documented code and are publicly available. Power BI files available for download for interactive exploration.*
