@@ -6,7 +6,9 @@
 
 ---
 
-📁 **Projects: 25+**
+📁 **Projects: 26+**
+
+🏦 **End-to-End ETL Projects** → [ETL_Pipelines](https://github.com/papastergiousp-maker/ETL_Pipelines)
 
 💡 All Power BI files are screenshots and `.pbix` files are available for download in the repository for interactive exploration. [📊 View](https://github.com/papastergiousp-maker/Power-BI/tree/main/Power_BI_Projects)
 
@@ -14,16 +16,17 @@
 
 ---
 
-## 🏆 Top 6 Featured Projects
+## 🏆 Top 7 Featured Projects
 
 | # | Project | Tool | Description | Link |
 |:--|:--------|:-----|:------------|:-----|
-| 1 | **Supermarket KPIs Dashboard** | Power BI | Retail sales, customer segmentation & gross income analysis | [📊 View](https://github.com/papastergiousp-maker/Power-BI/blob/main/Power_BI_Screenshots/SUPER-Market%20KPIS.pdf) |
-| 2 | **Operational KPI & Quality Control Dashboard** | Power BI | Employee performance, defect tracking & quality score monitoring | [📊 View](https://github.com/papastergiousp-maker/Power-BI/blob/main/Power_BI_Screenshots/Final%20Assigment.pdf) |
-| 3 | **Sales Profitability & Shipping Analysis** | Tableau | Profit analysis, order trends & regional sales performance | [📊 View](https://public.tableau.com/app/profile/spyros.papastergiou/viz/TableauFinalAssigment_17639274180640/Dashboard1) |
-| 4 | **Credit Card Spending Analytics** | Tableau | Financial data visualization & consumer behaviour analysis | [📊 View](https://public.tableau.com/app/profile/spyros.papastergiou/viz/CreditCardHabitsinindia/Dashboard1) |
-| 5 | **Retail Finance Sales Analysis** | Python | Data cleaning, ETL, market share & distribution analysis | [📂 Repo](https://github.com/papastergiousp-maker/Python_Financial_Data_Analytics/blob/main/Retail_Analysis/FINANCE_LIQUOR_SALES.ipynb) |
-| 6 | **Business Analytics Live Dashboard** | Python / Plotly | Interactive live dashboard | [🌐 Live](https://phytai.com/dashboard) |
+| 1 | **Eurobank Financial Analysis 2022–2024** | Python · SQL · SQLite · Power BI | Real banking pipeline: PDF extraction → ETL → SQLite → KPIs (ROE, NII, Cost-to-Income) → Dashboard. No pre-cleaned datasets used. | [📂 Repo](https://github.com/papastergiousp-maker/ETL_Pipelines/tree/main/eurobank-financial-analysis) |
+| 2 | **Supermarket KPIs Dashboard** | Power BI | Retail sales, customer segmentation & gross income analysis | [📊 View](https://github.com/papastergiousp-maker/Power-BI/blob/main/Power_BI_Screenshots/SUPER-Market%20KPIS.pdf) |
+| 3 | **Operational KPI & Quality Control Dashboard** | Power BI | Employee performance, defect tracking & quality score monitoring | [📊 View](https://github.com/papastergiousp-maker/Power-BI/blob/main/Power_BI_Screenshots/Final%20Assigment.pdf) |
+| 4 | **Sales Profitability & Shipping Analysis** | Tableau | Profit analysis, order trends & regional sales performance | [📊 View](https://public.tableau.com/app/profile/spyros.papastergiou/viz/TableauFinalAssigment_17639274180640/Dashboard1) |
+| 5 | **Credit Card Spending Analytics** | Tableau | Financial data visualization & consumer behaviour analysis | [📊 View](https://public.tableau.com/app/profile/spyros.papastergiou/viz/CreditCardHabitsinindia/Dashboard1) |
+| 6 | **Retail Finance Sales Analysis** | Python | Data cleaning, ETL, market share & distribution analysis | [📂 Repo](https://github.com/papastergiousp-maker/Python_Financial_Data_Analytics/blob/main/Retail_Analysis/FINANCE_LIQUOR_SALES.ipynb) |
+| 7 | **Business Analytics Live Dashboard** | Python / Plotly | Interactive live dashboard | [🌐 Live](https://phytai.com/dashboard) |
 
 ---
 
@@ -61,6 +64,7 @@
 
 | Project | Description | Link |
 |:--------|:------------|:-----|
+| **Eurobank Financial Analysis** | Banking KPIs: ROE, NII, Cost-to-Income, Loan-to-Deposit (2022–2024) | [📂 Repo](https://github.com/papastergiousp-maker/ETL_Pipelines/tree/main/eurobank-financial-analysis) |
 | **Supermarket KPIs Dashboard** | Retail sales, customer segmentation & gross income analysis | [📊 View](https://github.com/papastergiousp-maker/Power-BI/blob/main/Power_BI_Screenshots/SUPER-Market%20KPIS.pdf) |
 | **Operational KPI & Quality Control Dashboard** | Employee performance, defect tracking & quality score monitoring | [📊 View](https://github.com/papastergiousp-maker/Power-BI/blob/main/Power_BI_Screenshots/Final%20Assigment.pdf) |
 | **Super Store Dashboard** | Order data analysis & geographic performance visualization | [📊 View](https://github.com/papastergiousp-maker/Power-BI/blob/main/Power_BI_Screenshots/Super%20Store.pdf) |
@@ -86,4 +90,4 @@
 
 ---
 
-
+*Data sourced directly from official sources. All financial figures in € million.*
