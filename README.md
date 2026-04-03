@@ -90,4 +90,4 @@
 
 ---
 
-*Data sourced directly from official sources. All financial figures in € million.*
+*Data sourced directly from official sources. All financial figures in € mi
